@@ -1,4 +1,4 @@
-![image](www/logo.png)
+![image](www/logo_size.png)
 
 ## Squad Profile 
 
