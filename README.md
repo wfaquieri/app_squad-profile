@@ -1,6 +1,6 @@
-![image](www/logo_size.png)
+![image](www/logo.png)
 
-## app
+## Squad Profile 
 
 Aplicativo desenvolvido em R Shiny para visualizar algumas estatísticas sobre o perfil de elenco de diversos clubes Br:
 
