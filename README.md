@@ -6,4 +6,3 @@ Aplicativo desenvolvido em R Shiny para visualizar algumas estatísticas sobre o
 
 App: https://winicius-faquieri.shinyapps.io/squad-profile/
 
-![image](www/logo.png)
